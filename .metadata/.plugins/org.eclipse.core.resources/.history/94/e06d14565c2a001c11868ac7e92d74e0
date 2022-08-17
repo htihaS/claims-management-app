@@ -1,0 +1,5 @@
+package com.cts.mfpe.cms.Authorization.config;
+
+public class SecurityConfigurer {
+
+}

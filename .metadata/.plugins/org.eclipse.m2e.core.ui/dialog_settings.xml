@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\kodum\Downloads\Allow-staff-project-master\Allow-staff-project-master"/>
+			<item value="C:\Users\kodum\Downloads\Customers (1)\Customers\Customers"/>
+			<item value="C:\Users\kodum\Desktop\CRT\CTS\Claims Management\pod4MemberMicroservice-2"/>
+			<item value="C:\Users\kodum\Desktop\CRT\CTS\Claims Management\pod4MemberMicroservice"/>
+			<item value="C:\Users\kodum\Desktop\CRT\CTS\Claims Management\medicinestock"/>
+			<item value="C:\Users\kodum\Downloads\medicinestock\medicinestock"/>
+			<item value="C:\Users\kodum\Desktop\CRT\CTS\Claims Management\AuthorizationService\src\main\java\com\cts\mfpe\cms\Authorization\AuthorizationApplication.java"/>
+			<item value="C:\Users\kodum\Desktop\CRT\CTS\Internship\MFRP-Project-master\CMS-Discovery-Server"/>
+			<item value="C:\Users\kodum\Desktop\CRT\CTS\Claims Management\claim"/>
+			<item value="C:\Users\kodum\Desktop\CRT\CTS\Claims Management\policyService"/>
+			<item value="C:\Users\kodum\Downloads\ij025Team3ClaimsManagement-master\ij025Team3ClaimsManagement-master\Backend\authorization"/>
+			<item value="C:\Users\kodum\Desktop\CRT\CTS\Claims Management\MFRP-Project-master\4.CMS-Authorization-Service"/>
+			<item value="C:\Users\kodum\Desktop\CRT\CTS\Claims Management\MFRP-Project-master"/>
+			<item value="C:\Users\kodum\Desktop\CRT\CTS\Claims Management\Authorization"/>
+			<item value="C:\Users\kodum\Desktop\CRT\CTS\Internship\CMS\Authorization"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.msa3.customers"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="customers-jenkins"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

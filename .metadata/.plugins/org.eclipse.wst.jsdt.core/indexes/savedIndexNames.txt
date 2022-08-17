@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\kodum\Desktop\CRT\CTS\Claims Management\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1871302496.index
+2049915866.index
+343199676.index
+57433849.index
+1421521952.index
